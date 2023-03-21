@@ -3,7 +3,7 @@
 
 
 # Network
-![绘图1](https://github.com/CGPxy/cgp/blob/main/papers/SDFNet.png)
+!https://github.com/CGPxy/cgp/blob/main/papers/SDFNet.png
 
 
 
