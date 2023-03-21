@@ -3,7 +3,8 @@
 
 
 # Network
-!https://github.com/CGPxy/cgp/blob/main/papers/SDFNet.png
+
+![3](https://user-images.githubusercontent.com/52651150/226517463-98c4fa1a-edec-4b6c-b4b6-e8f65ff0ba5f.png)
 
 
 
